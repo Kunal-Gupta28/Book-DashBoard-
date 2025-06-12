@@ -1,0 +1,814 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "The Da Vinci Code",
+      "author": "J.D. Salinger",
+      "genre": "Post-Apocalyptic",
+      "year": "2023",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "3",
+      "title": "A Brief History of Time",
+      "author": "Harper Lee",
+      "genre": "Historical Fiction",
+      "year": "1972",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "4",
+      "title": "The Road",
+      "author": "Tara Westover",
+      "genre": "Mystery",
+      "year": "1880",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "6",
+      "title": "Gone Girl",
+      "author": "J.D. Salinger",
+      "genre": "Thriller",
+      "year": "1911",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "7",
+      "title": "Pride and Prejudice",
+      "author": "Paulo Coelho",
+      "genre": "Science Fiction",
+      "year": "1848",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "8",
+      "title": "Sapiens",
+      "author": "Herman Melville",
+      "genre": "Adventure",
+      "year": "1885",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "9",
+      "title": "The Catcher in the Rye",
+      "author": "Stieg Larsson",
+      "genre": "Young Adult",
+      "year": "2002",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "11",
+      "title": "The Road",
+      "author": "Harper Lee",
+      "genre": "Non-Fiction",
+      "year": "1814",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "12",
+      "title": "A Brief History of Time",
+      "author": "Cormac McCarthy",
+      "genre": "Historical Fiction",
+      "year": "1877",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "13",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stephen Hawking",
+      "genre": "Young Adult",
+      "year": "1807",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "14",
+      "title": "The Da Vinci Code",
+      "author": "Paulo Coelho",
+      "genre": "Science",
+      "year": "1859",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "15",
+      "title": "Brave New World",
+      "author": "Andy Weir",
+      "genre": "Science",
+      "year": "1974",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "16",
+      "title": "To Kill a Mockingbird",
+      "author": "J.D. Salinger",
+      "genre": "Thriller",
+      "year": "1868",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "18",
+      "title": "1984",
+      "author": "Harper Lee",
+      "genre": "Memoir",
+      "year": "1920",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "19",
+      "title": "The Shining",
+      "author": "Yuval Noah Harari",
+      "genre": "Historical Fiction",
+      "year": "1877",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "20",
+      "title": "The Book Thief",
+      "author": "Stephen King",
+      "genre": "Historical Fiction",
+      "year": "1946",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "21",
+      "title": "Pride and Prejudice",
+      "author": "Gillian Flynn",
+      "genre": "Young Adult",
+      "year": "1840",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "22",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Andy Weir",
+      "genre": "Historical Fiction",
+      "year": "1967",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "23",
+      "title": "Educated",
+      "author": "Jane Austen",
+      "genre": "Non-Fiction",
+      "year": "2007",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "24",
+      "title": "Pride and Prejudice",
+      "author": "Markus Zusak",
+      "genre": "Romance",
+      "year": "1921",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "25",
+      "title": "The Hobbit",
+      "author": "Stephen King",
+      "genre": "Young Adult",
+      "year": "1870",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "26",
+      "title": "The Road",
+      "author": "Herman Melville",
+      "genre": "Historical Fiction",
+      "year": "2008",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "27",
+      "title": "The Hobbit",
+      "author": "Stephen Hawking",
+      "genre": "Post-Apocalyptic",
+      "year": "1926",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "28",
+      "title": "The Da Vinci Code",
+      "author": "Stephen Hawking",
+      "genre": "Horror",
+      "year": "1987",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "29",
+      "title": "The Hobbit",
+      "author": "George Orwell",
+      "genre": "Young Adult",
+      "year": "1840",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "30",
+      "title": "Sapiens",
+      "author": "Markus Zusak",
+      "genre": "Horror",
+      "year": "1905",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "31",
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Tara Westover",
+      "genre": "Thriller",
+      "year": "1992",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "32",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": "1854",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "33",
+      "title": "The Shining",
+      "author": "Yuval Noah Harari",
+      "genre": "Horror",
+      "year": "1830",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "35",
+      "title": "The Shining",
+      "author": "Tara Westover",
+      "genre": "Mystery",
+      "year": "1997",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "36",
+      "title": "A Brief History of Time",
+      "author": "Gillian Flynn",
+      "genre": "Romance",
+      "year": "1972",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "37",
+      "title": "The Road",
+      "author": "Harper Lee",
+      "genre": "Young Adult",
+      "year": "1824",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "38",
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Memoir",
+      "year": "1861",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "39",
+      "title": "Educated",
+      "author": "Stieg Larsson",
+      "genre": "Horror",
+      "year": "1856",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "40",
+      "title": "The Da Vinci Code",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Romance",
+      "year": "1957",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "41",
+      "title": "The Hobbit",
+      "author": "Herman Melville",
+      "genre": "Young Adult",
+      "year": "1972",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "42",
+      "title": "The Martian",
+      "author": "Yuval Noah Harari",
+      "genre": "Fiction",
+      "year": "1803",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "43",
+      "title": "The Alchemist",
+      "author": "Yuval Noah Harari",
+      "genre": "Science",
+      "year": "1930",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "44",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Young Adult",
+      "year": "1910",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "45",
+      "title": "To Kill a Mockingbird",
+      "author": "Markus Zusak",
+      "genre": "Thriller",
+      "year": "1860",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "46",
+      "title": "The Road",
+      "author": "Jane Austen",
+      "genre": "Non-Fiction",
+      "year": "1956",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "47",
+      "title": "Gone Girl",
+      "author": "Paulo Coelho",
+      "genre": "Fiction",
+      "year": "1897",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "48",
+      "title": "The Martian",
+      "author": "Tara Westover",
+      "genre": "Science Fiction",
+      "year": "1936",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "49",
+      "title": "The Great Gatsby",
+      "author": "Andy Weir",
+      "genre": "Fantasy",
+      "year": "1965",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "50",
+      "title": "The Da Vinci Code",
+      "author": "Markus Zusak",
+      "genre": "Science",
+      "year": "1884",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "51",
+      "title": "The Da Vinci Code",
+      "author": "Gillian Flynn",
+      "genre": "Young Adult",
+      "year": "1852",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "52",
+      "title": "Educated",
+      "author": "John Green",
+      "genre": "Horror",
+      "year": "1863",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "53",
+      "title": "The Shining",
+      "author": "Gillian Flynn",
+      "genre": "Mystery",
+      "year": "1908",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "55",
+      "title": "The Great Gatsby",
+      "author": "Tara Westover",
+      "genre": "Horror",
+      "year": "1918",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "56",
+      "title": "The Catcher in the Rye",
+      "author": "Tara Westover",
+      "genre": "Mystery",
+      "year": "1837",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "57",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "genre": "Science",
+      "year": "1979",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "58",
+      "title": "Sapiens",
+      "author": "George Orwell",
+      "genre": "Historical Fiction",
+      "year": "2023",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "59",
+      "title": "Sapiens",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fantasy",
+      "year": "1936",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "60",
+      "title": "The Shining",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Adventure",
+      "year": "1938",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "61",
+      "title": "Educated",
+      "author": "Paulo Coelho",
+      "genre": "Mystery",
+      "year": "1939",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "62",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "genre": "Memoir",
+      "year": "1868",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "63",
+      "title": "The Hobbit",
+      "author": "Gillian Flynn",
+      "genre": "Science Fiction",
+      "year": "1879",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "64",
+      "title": "The Catcher in the Rye",
+      "author": "Gillian Flynn",
+      "genre": "Thriller",
+      "year": "1863",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "65",
+      "title": "The Da Vinci Code",
+      "author": "Aldous Huxley",
+      "genre": "Adventure",
+      "year": "1909",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "66",
+      "title": "To Kill a Mockingbird",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": "1883",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "67",
+      "title": "The Catcher in the Rye",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "year": "1831",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "68",
+      "title": "Pride and Prejudice",
+      "author": "Harper Lee",
+      "genre": "Science",
+      "year": "1973",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "69",
+      "title": "The Catcher in the Rye",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Post-Apocalyptic",
+      "year": "2015",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "70",
+      "title": "The Alchemist",
+      "author": "Stephen Hawking",
+      "genre": "Adventure",
+      "year": "1857",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "71",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Romance",
+      "year": "1967",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "72",
+      "title": "To Kill a Mockingbird",
+      "author": "Yuval Noah Harari",
+      "genre": "Science",
+      "year": "1864",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "73",
+      "title": "The Book Thief",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Adventure",
+      "year": "1872",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "74",
+      "title": "To Kill a Mockingbird",
+      "author": "Stephen King",
+      "genre": "Thriller",
+      "year": "1808",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "75",
+      "title": "To Kill a Mockingbird",
+      "author": "Stephen King",
+      "genre": "Adventure",
+      "year": "1938",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "76",
+      "title": "A Brief History of Time",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Thriller",
+      "year": "1916",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "77",
+      "title": "The Shining",
+      "author": "Cormac McCarthy",
+      "genre": "Science Fiction",
+      "year": "1869",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "78",
+      "title": "A Brief History of Time",
+      "author": "Yuval Noah Harari",
+      "genre": "Adventure",
+      "year": "1969",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "79",
+      "title": "Gone Girl",
+      "author": "Stephen King",
+      "genre": "Fantasy",
+      "year": "1801",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "80",
+      "title": "The Catcher in the Rye",
+      "author": "John Green",
+      "genre": "Science",
+      "year": "1954",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "81",
+      "title": "The Martian",
+      "author": "Stephen Hawking",
+      "genre": "Fantasy",
+      "year": "1828",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1463320898484-cdee8141c787?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "82",
+      "title": "The Great Gatsby",
+      "author": "Jane Austen",
+      "genre": "Adventure",
+      "year": "1837",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "83",
+      "title": "1984",
+      "author": "Herman Melville",
+      "genre": "Horror",
+      "year": "1838",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "84",
+      "title": "Pride and Prejudice",
+      "author": "J.R.R. Tolkien",
+      "genre": "Horror",
+      "year": "1974",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "85",
+      "title": "Gone Girl",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": "1870",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "86",
+      "title": "A Brief History of Time",
+      "author": "Gillian Flynn",
+      "genre": "Historical Fiction",
+      "year": "1947",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "87",
+      "title": "Pride and Prejudice",
+      "author": "Cormac McCarthy",
+      "genre": "Horror",
+      "year": "1827",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "88",
+      "title": "Sapiens",
+      "author": "Dan Brown",
+      "genre": "Thriller",
+      "year": "1921",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1455885664032-7cbbda5d61c4?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "89",
+      "title": "The Alchemist",
+      "author": "Markus Zusak",
+      "genre": "Fiction",
+      "year": "1864",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "90",
+      "title": "The Martian",
+      "author": "Gillian Flynn",
+      "genre": "Horror",
+      "year": "1915",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "91",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Historical Fiction",
+      "year": "1887",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "92",
+      "title": "The Shining",
+      "author": "Gillian Flynn",
+      "genre": "Memoir",
+      "year": "1946",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1466354424719-343280fe118b?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "93",
+      "title": "The Fault in Our Stars",
+      "author": "George Orwell",
+      "genre": "Adventure",
+      "year": "1965",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "94",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Horror",
+      "year": "1947",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "95",
+      "title": "The Hobbit",
+      "author": "Yuval Noah Harari",
+      "genre": "Mystery",
+      "year": "1970",
+      "status": "Issued",
+      "imageUrl": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+    },
+    {
+      "id": "96",
+      "title": "Moby-Dick",
+      "author": "Jane Austen",
+      "genre": "Mystery",
+      "year": "1938",
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1455885664032-7cbbda5d61c4?w=500&auto=format&fit=crop&q=60"
+    }
+  ]
+}
